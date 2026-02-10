@@ -1,4 +1,4 @@
-# Here is a new update by nayan07cse
+# Here is another update by nayan07cse
 
 # Shipping Cost Calculator
 ## Input package weight and shipping rate
